@@ -9,5 +9,5 @@ edition = "2018"
 [dependencies]
 
 [[bin]]
-name = "hello_world"
-path = "src/hello_world.rs"
+name = "main"
+path = "src/main.rs"
